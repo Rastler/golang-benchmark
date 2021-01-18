@@ -1,4 +1,4 @@
-package prime
+package benchmark
 
 func Prime(number uint) bool {
 	switch number {
